@@ -1,5 +1,5 @@
 # NOTE
-- No longer working as kaetram no used encrypted websocket calls (You need to wait for gdsdecomp to be updated)
+- No longer working as kaetram now uses encrypted websocket calls (You need to wait for gdsdecomp to be updated)
 
 # Research Stuff
 - https://github.com/bruvzg/gdsdecomp (https://github.com/bruvzg/gdsdecomp/issues/172) We are awaiting this to reverse encryption
